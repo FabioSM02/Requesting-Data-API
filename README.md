@@ -9,5 +9,3 @@ These are API of project:
 
 - Concepts learned:
 	Async, Await, Reduce, Promises and Map
-
-![Code of project](https://imgur.com/qTFHK76 "Code of project")
