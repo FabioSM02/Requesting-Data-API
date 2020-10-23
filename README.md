@@ -4,9 +4,9 @@
 
 - These are API of project: 
 
-	https://pokeapi.co/api/v2/pokemon
-	<br/>
-	https://pokeres.bastionbot.org/images/pokemon/
+		https://pokeapi.co/api/v2/pokemon
+		<br/>
+		https://pokeres.bastionbot.org/images/pokemon/
 
 - Concepts learned:
 	Async, Await, Reduce, Promises and Map
