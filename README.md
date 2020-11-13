@@ -11,10 +11,10 @@ https://pokeres.bastionbot.org/images/pokemon/
 ```
 
 ### Concepts learned:
-	- Async, Await, Reduce, Promises and Map
+- Async, Await, Reduce, Promises and Map
 
 ### Technologies used:
-	- JavaScript
-	- ES6
-	- CSS
-	- HTML
+- JavaScript
+- ES6
+- CSS
+- HTML
