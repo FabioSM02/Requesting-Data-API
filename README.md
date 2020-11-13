@@ -2,7 +2,7 @@
 
 - This project was made for requesting datas from api with JavaScript and ES6
 
-- These are API of project: 
+### These are API of project: 
 
 ```
 https://pokeapi.co/api/v2/pokemon
